@@ -3,9 +3,7 @@
 
 **Objetivo:** apresentar os principais conceitos da Nuvexa e mostrar como criar, publicar e monitorar processos automatizados.
 
-**[Mockup do dashboard Nuvexa]**
-
-(**INSERIR IMAGEM AQUI**../../images/dashboard-mockup.svg)
+<img width="1100" height="650" alt="Image" src="https://github.com/user-attachments/assets/78e5bd65-a70d-405a-96f6-1b0098c1e4fc" />
 
 ## 1. O que é a Nuvexa?
 A Nuvexa é uma plataforma em nuvem para automatizar processos de negócio repetitivos.
