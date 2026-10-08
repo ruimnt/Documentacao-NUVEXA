@@ -7,6 +7,9 @@
 
 ## 1. O que é a Nuvexa?
 A Nuvexa é uma plataforma em nuvem para automatizar processos de negócio repetitivos.
+
+<img width="900" height="420" alt="Image" src="https://github.com/user-attachments/assets/4b5fd285-a523-489d-bbac-f82a2c70415c" />
+
 Um processo começa com um **gatilho**, executa uma ou mais **etapas**, e termina com um **resultado**.
 Por exemplo:
 ```text
