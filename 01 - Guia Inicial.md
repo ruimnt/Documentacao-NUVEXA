@@ -1,5 +1,6 @@
 # Guia do Usuário Nuvexa
 **Público:** novos usuários, builders de workflows, membros de equipes e administradores de workspace.
+
 **Objetivo:** apresentar os principais conceitos da Nuvexa e mostrar como criar, publicar e monitorar processos automatizados.
 
 **[Mockup do dashboard Nuvexa]**
@@ -39,7 +40,7 @@ Um gatilho inicia um workflow.
 | Gatilho | Exemplo |
 |---|---|
 | Webhook | Iniciar um processo quando outro sistema enviar um evento |
-| Agendamento | Executar todos os dias úteis às 09:00 |
+| Agendamento | Executar todos os dias úteis às 09:00 AM |
 | Registro criado | Iniciar quando um registro for criado no CRM |
 | Manual | Permitir que um usuário inicie o workflow pela Nuvexa |
 ### Ação
@@ -56,8 +57,10 @@ Novo chamado ───────┤
 2. Informe seu e-mail corporativo.
 3. Informe sua senha.
 4. Selecione **Entrar**.
-Se sua organização utiliza SSO, selecione **Continuar com SSO**.
+5. Se sua organização utiliza SSO, selecione **Continuar com SSO**.
+
 > **Aviso:** nunca compartilhe sua senha ou seu API token em descrições de workflow, chamados ou screenshots.
+
 ## 4. Criar um workflow
 1. Abra **Workflows**.
 2. Selecione **Criar workflow**.
@@ -68,7 +71,10 @@ Se sua organização utiliza SSO, selecione **Continuar com SSO**.
 7. Configure a ação.
 8. Selecione **Salvar rascunho**.
 O workflow permanece inativo até ser publicado.
-![Editor de workflow](../../images/workflow-editor.svg)
+**[Editor de workflow]**
+
+**(INSERIR IMAGEM AQUI**../../images/workflow-editor.svg)
+
 ## 5. Testar um workflow
 Use o modo de teste antes de publicar.
 1. Abra o workflow.
@@ -99,12 +105,14 @@ Cada execução inclui:
 - Resultado das etapas
 - Informações de erro
 - ID da execução
+
 | Status | Significado |
 |---|---|
 | Running | O workflow está em execução |
 | Succeeded | Todas as etapas obrigatórias foram concluídas |
 | Failed | Pelo menos uma etapa obrigatória falhou |
 | Canceled | A execução foi interrompida antes de terminar |
+
 ## 8. Gerenciar conexões
 As conexões armazenam credenciais utilizadas para acessar serviços externos.
 1. Abra **Configurações → Conexões**.
