@@ -69,9 +69,8 @@ Novo chamado ───────┤
 7. Configure a ação.
 8. Selecione **Salvar rascunho**.
 O workflow permanece inativo até ser publicado.
-**[Editor de workflow]**
 
-**(INSERIR IMAGEM AQUI**../../images/workflow-editor.svg)
+<img width="1100" height="620" alt="Image" src="https://github.com/user-attachments/assets/06c67f72-12e9-48b2-94a1-05088d2fca23" />
 
 ## 5. Testar um workflow
 Use o modo de teste antes de publicar.
