@@ -22,9 +22,8 @@ Inclua o token em todas as requisições autenticadas:
 Authorization: Bearer nva_live_xxxxxxxxx
 ```
 ### Fluxo de autenticação
-**[Fluxo de autenticação da API Nuvexa]**
 
-(**INSERIR IMAGEM AQUI**../../images/authentication-flow.svg)
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/4e14e81f-2fdc-4914-bbfd-a49640abc432" />
 
 ### Tratamento de tokens
 Armazene tokens em variáveis de ambiente ou em um secret manager.
