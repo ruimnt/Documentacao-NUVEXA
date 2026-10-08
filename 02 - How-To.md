@@ -1,5 +1,6 @@
 # Guias How-to da Nuvexa
 **Público:** builders de workflows, equipes de operações e administradores de workspace.
+
 **Objetivo:** fornecer procedimentos objetivos para tarefas comuns na Nuvexa.
 ## Como criar um workflow de onboarding de clientes
 Este exemplo cria um workflow que recebe um evento de cadastro, verifica o plano do cliente e envia uma notificação.
